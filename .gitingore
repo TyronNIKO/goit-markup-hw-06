@@ -1,0 +1,12 @@
+Ігнорувати всі .txt файли
+*.txt
+
+Ігнорувати конкретний файл
+russia-defeat-map.jpg
+
+Ігнорувати всі файли в певній папці
+russia-defeat-plans/*
+
+Ігнорувати всі .txt файли, крім plans.txt
+*.txt
+!plans.txt
