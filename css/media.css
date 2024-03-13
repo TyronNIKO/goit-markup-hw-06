@@ -55,6 +55,7 @@
     /*!header*/
     .header .header-nav .menu {flex-direction: row;justify-content: center;align-items: center;}
     .header .header-nav .logo {margin-right: 76px;}
+    .header .header-contacts .menu {flex-direction: row;gap: 40px;}
     /*!hero*/
     .hero {max-width: 1440px;padding-top: 188px;padding-bottom: 188px;background-image: linear-gradient(to bottom,rgba(46,47,66,.7),rgba(46,47,66,.7)),url(../images/hero-bg-desk.jpg);}
     @media (min-device-pixel-ratio: 2),(min-resolution: 192dpi),(min-resolution: 2dppx) {
